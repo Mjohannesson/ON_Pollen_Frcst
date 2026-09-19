@@ -1,0 +1,12 @@
+{
+  "domain": "london_pollen",
+  "name": "London Pollen Forecast",
+  "codeowners": [],
+  "config_flow": true,
+  "documentation": "https://github.com/YOUR_GITHUB_USERNAME/ha-london-pollen",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/YOUR_GITHUB_USERNAME/ha-london-pollen/issues",
+  "requirements": [],
+  "version": "1.0.0"
+}
